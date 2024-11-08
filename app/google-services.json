@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "613928070251",
+    "project_id": "finalmain-3def1",
+    "storage_bucket": "finalmain-3def1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613928070251:android:6c83db95726d13c1dc152e",
+        "android_client_info": {
+          "package_name": "com.example.expense_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-wrQ71ImMTvqpcXhxkZq8B2m0Ho3XvaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
